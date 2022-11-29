@@ -1,1 +1,2 @@
-![github gif](https://user-images.githubusercontent.com/93270726/204539463-d3fc377d-fb81-479d-94f6-20a84e76c147.gif)
+
+![contributions](https://user-images.githubusercontent.com/93270726/204540995-818e6177-96c2-43e6-ab1e-a15c2a63d199.svg)
